@@ -1,0 +1,12 @@
+Informações do Banco de Dados Localhost mararts
+
+- Nome do Banco de dados --> mararts1
+- Nome de usuário do banco de dados --> root
+- Senha do Banco de dados --> (sem senha)
+- Servidor do Banco de Dados --> localhost
+- Prefixo de tabela (se quiser rodar mais de um wordpress no mesmo banco de dados) --> mlls_
+
+- Título do Site --> Mararts
+- Nome de Usuário --> admin
+- Senha --> marleo280804
+- Email --> markshow@gmail.com
